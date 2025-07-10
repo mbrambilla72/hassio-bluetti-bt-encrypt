@@ -1,0 +1,12 @@
+homeassistant
+bleak_retry_connector
+pyserial
+bluetooth_auto_recovery
+crcmod
+typing
+asyncio
+pyasn1
+logging
+bleak
+async_timeout
+aiousbwatcher
